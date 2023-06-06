@@ -1,0 +1,8 @@
+{
+  "build/runtime.js": "/build/runtime.js",
+  "build/vendor/@sweetalert2/theme-dark/dark.min.css": "/build/vendor/@sweetalert2/theme-dark/dark.min.css",
+  "build/vendor/@sweetalert2/theme-dark/dark.css": "/build/vendor/@sweetalert2/theme-dark/dark.css",
+  "build/vendor/@sweetalert2/theme-dark/dark.scss": "/build/vendor/@sweetalert2/theme-dark/dark.scss",
+  "build/vendor/@sweetalert2/theme-dark/README.md": "/build/vendor/@sweetalert2/theme-dark/README.md",
+  "build/vendor/@sweetalert2/theme-dark/package.json": "/build/vendor/@sweetalert2/theme-dark/package.json"
+}
