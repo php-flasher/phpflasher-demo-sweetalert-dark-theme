@@ -1,0 +1,5 @@
+flasher:
+    use_cdn: false
+
+flasher_sweetalert:
+    styles: '/build/vendor/@sweetalert2/theme-dark/dark.min.css'
