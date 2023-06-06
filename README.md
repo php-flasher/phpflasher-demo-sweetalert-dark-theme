@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://raw.githubusercontent.com/php-flasher/phpflasher-demo-sweetalert-dark-theme/main/art/phpflasher-demo-sweetalert-dark-theme.png" alt="PHPFlasher sweetalert dark theme">
+</p>
+
 # PHPFlasher - Sweetalert Dark Theme Integration
 
 This guide will walk you through the process of rendering Sweetalert notifications with dark theme in your PHPFlasher project. Let's dive in!
